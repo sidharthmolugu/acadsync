@@ -80,13 +80,16 @@ dotenv
 
 crypto (signature verification)
 
-Environment Variables
+Edit your Environment Variables
 Backend .env
 PORT=5000
+
 MONGO_URI=your_mongo_atlas_url
+
 JWT_SECRET=your_jwt_secret
 
 RAZORPAY_KEY_ID=rzp_test_xxxxx
+
 RAZORPAY_KEY_SECRET=your_secret_key
 
 CLIENT_URL=http://localhost:5173
